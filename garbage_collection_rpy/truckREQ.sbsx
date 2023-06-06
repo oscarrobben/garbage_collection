@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0</version>
+	<lang>C++</lang>
+	<BuildNo>202002261110</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 9ebd66a3-0a7c-4f31-9d16-9489f865d85b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">truckREQ</_name>
+			<_modifiedTimeWeak type="a">6.6.2023::15:3:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.6.2023::15:3:3</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">6.6.2023::15:3:3</weakCGTime>
+			<strongCGTime type="a">6.6.2023::15:2:18</strongCGTime>
+			<_defaultComposite type="s">GUID 8e25fcf4-9097-4325-b942-bb560e443e89</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID d6684dc9-42aa-464c-b571-a0e2cbaa5376</value>
+				<value>GUID 8e25fcf4-9097-4325-b942-bb560e443e89</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID d6684dc9-42aa-464c-b571-a0e2cbaa5376</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">requirement_0</_name>
+			<_modifiedTimeWeak type="a">6.6.2023::15:3:3</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.6.2023::15:3:3</_modifiedTime>
+		</IRequirement>
+		<IClass type="e">
+			<_id type="a">GUID 8e25fcf4-9097-4325-b942-bb560e443e89</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
