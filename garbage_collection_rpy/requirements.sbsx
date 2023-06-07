@@ -12,10 +12,10 @@
 			<_id type="a">GUID 1a13500f-05b4-4d8b-953f-e8a9e17996c5</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">requirements</_name>
-			<_modifiedTimeWeak type="a">6.6.2023::15:2:34</_modifiedTimeWeak>
-			<_modifiedTime type="a">6.6.2023::15:2:34</_modifiedTime>
-			<_lastID type="a">3</_lastID>
-			<weakCGTime type="a">6.6.2023::15:2:34</weakCGTime>
+			<_modifiedTimeWeak type="a">6.7.2023::13:51:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::13:51:43</_modifiedTime>
+			<_lastID type="a">6</_lastID>
+			<weakCGTime type="a">6.7.2023::13:51:43</weakCGTime>
 			<strongCGTime type="a">6.6.2023::14:59:4</strongCGTime>
 			<_defaultComposite type="s">GUID 083d0b70-1ed3-43c2-bf2a-7046de66535e</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -24,6 +24,9 @@
 				<value>GUID 2efdb394-4b19-4528-bf94-cce4c53b01e2</value>
 				<value>GUID 9ebd66a3-0a7c-4f31-9d16-9489f865d85b</value>
 				<value>GUID 0445d435-97a8-471e-892a-d5a4b9aedb5f</value>
+				<value>GUID b9f2514f-f9bc-4231-b69b-5b109b71a687</value>
+				<value>GUID 46c835a7-89dd-465d-bc5e-4f72a4232ad7</value>
+				<value>GUID 634dde6d-55f4-41ad-a914-9ccab277e2f3</value>
 				<value>GUID 083d0b70-1ed3-43c2-bf2a-7046de66535e</value>
 			</AggregatesList>
 		</ISubsystem>
@@ -38,6 +41,18 @@
 		<ISubsystem type="e">
 			<fileName type="a">CMSREQ</fileName>
 			<_id type="a">GUID 0445d435-97a8-471e-892a-d5a4b9aedb5f</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">wastecenterREQ</fileName>
+			<_id type="a">GUID b9f2514f-f9bc-4231-b69b-5b109b71a687</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">appREQ</fileName>
+			<_id type="a">GUID 46c835a7-89dd-465d-bc5e-4f72a4232ad7</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">adminREQ</fileName>
+			<_id type="a">GUID 634dde6d-55f4-41ad-a914-9ccab277e2f3</_id>
 		</ISubsystem>
 		<IClass type="e">
 			<_id type="a">GUID 083d0b70-1ed3-43c2-bf2a-7046de66535e</_id>
