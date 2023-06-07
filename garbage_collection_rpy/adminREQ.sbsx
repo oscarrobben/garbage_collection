@@ -12,23 +12,89 @@
 			<_id type="a">GUID 634dde6d-55f4-41ad-a914-9ccab277e2f3</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">adminREQ</_name>
-			<_modifiedTimeWeak type="a">6.7.2023::13:51:49</_modifiedTimeWeak>
-			<_modifiedTime type="a">6.7.2023::13:51:49</_modifiedTime>
-			<weakCGTime type="a">6.7.2023::13:51:49</weakCGTime>
+			<_modifiedTimeWeak type="a">6.7.2023::14:23:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:23:48</_modifiedTime>
+			<_lastID type="a">5</_lastID>
+			<weakCGTime type="a">6.7.2023::14:23:48</weakCGTime>
 			<strongCGTime type="a">6.7.2023::13:51:49</strongCGTime>
 			<_defaultComposite type="s">GUID 07328ee9-4bf8-49d8-9c4c-37633934a493</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
+				<value>GUID 58a55cc3-4916-40d0-b813-dccd3afbde86</value>
+				<value>GUID 891b9e90-7c2c-4046-871c-a0845b75ef91</value>
+				<value>GUID e7b661cb-c92c-40c0-bfe5-d37d1fd552d3</value>
+				<value>GUID 711ef1da-50cb-4e06-b00a-567986ff2016</value>
+				<value>GUID 740a3f8a-6a21-4875-b0bf-6383e4b6f8da</value>
 				<value>GUID 07328ee9-4bf8-49d8-9c4c-37633934a493</value>
 			</AggregatesList>
 		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID 58a55cc3-4916-40d0-b813-dccd3afbde86</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">6.1</_name>
+			<_modifiedTimeWeak type="a">6.7.2023::14:20:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:20:48</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The admin dashboard shall show system administrators what areas constantly contain full garbage bins for more than 24 hours.\par%0D
+}%0D
+</_body>
+			<reqID type="a">6.1</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 891b9e90-7c2c-4046-871c-a0845b75ef91</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">6.2</_name>
+			<_modifiedTimeWeak type="a">6.7.2023::14:21:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:21:43</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The admin dashboard shall show for each bin the average duration between the bin being emptied.\par%0D
+}%0D
+</_body>
+			<reqID type="a">6.2</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID e7b661cb-c92c-40c0-bfe5-d37d1fd552d3</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">6.3</_name>
+			<_modifiedTimeWeak type="a">6.7.2023::14:22:54</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:22:54</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The admin dashboard shall show for each bin the average and maximum fill level over the last 30 days.\par%0D
+}%0D
+</_body>
+			<reqID type="a">6.3</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 711ef1da-50cb-4e06-b00a-567986ff2016</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">6.4</_name>
+			<_modifiedTimeWeak type="a">6.7.2023::14:23:27</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:23:27</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The admin dashboard shall show for each bin the average and maximum temperature over the last 30 days.\par%0D
+}%0D
+</_body>
+			<reqID type="a">6.4</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 740a3f8a-6a21-4875-b0bf-6383e4b6f8da</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">6.5</_name>
+			<_modifiedTimeWeak type="a">6.7.2023::14:23:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:23:48</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The admin dashboard shall show for each bin the average and maximum humidity over the last 30 days.\par%0D
+}%0D
+</_body>
+			<reqID type="a">6.5</reqID>
+		</IRequirement>
 		<IClass type="e">
 			<_id type="a">GUID 07328ee9-4bf8-49d8-9c4c-37633934a493</_id>
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">

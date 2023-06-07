@@ -12,23 +12,89 @@
 			<_id type="a">GUID b9f2514f-f9bc-4231-b69b-5b109b71a687</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">wastecenterREQ</_name>
-			<_modifiedTimeWeak type="a">6.7.2023::13:51:27</_modifiedTimeWeak>
-			<_modifiedTime type="a">6.7.2023::13:51:27</_modifiedTime>
-			<weakCGTime type="a">6.7.2023::13:51:27</weakCGTime>
+			<_modifiedTimeWeak type="a">6.7.2023::14:13:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:13:19</_modifiedTime>
+			<_lastID type="a">6</_lastID>
+			<weakCGTime type="a">6.7.2023::14:13:19</weakCGTime>
 			<strongCGTime type="a">6.7.2023::13:51:27</strongCGTime>
 			<_defaultComposite type="s">GUID 55d56682-6695-4599-8818-0ffea9dac428</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
+				<value>GUID c2797a1a-6b5f-47a8-8f51-ad297717167c</value>
+				<value>GUID 9aa6bb90-a5e0-4b18-b8c9-9bcf270d3536</value>
+				<value>GUID 0aece8ba-7611-44e1-b46e-f179e8ec2db1</value>
+				<value>GUID c9e4cb4a-afd0-40bc-ba5f-3e3cde683804</value>
+				<value>GUID b5b8c297-7ec5-4425-8702-7fd040dc17e2</value>
 				<value>GUID 55d56682-6695-4599-8818-0ffea9dac428</value>
 			</AggregatesList>
 		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID c2797a1a-6b5f-47a8-8f51-ad297717167c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">4.1</_name>
+			<_modifiedTimeWeak type="a">6.7.2023::14:10:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:10:46</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The waste center shall sort any garbage that enters the facility.\par%0D
+}%0D
+</_body>
+			<reqID type="a">4.1</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 9aa6bb90-a5e0-4b18-b8c9-9bcf270d3536</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">4.2</_name>
+			<_modifiedTimeWeak type="a">6.7.2023::14:12:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:12:24</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The waste center shall, for each type of waste, keep track of the amount of waste that enters the facility.\par%0D
+}%0D
+</_body>
+			<reqID type="a">4.2</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 0aece8ba-7611-44e1-b46e-f179e8ec2db1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">4.3</_name>
+			<_modifiedTimeWeak type="a">6.7.2023::14:12:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:12:19</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The waste center shall, for each type of garbage, measure the fill level of its collection areas.\par%0D
+}%0D
+</_body>
+			<reqID type="a">4.3</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID c9e4cb4a-afd0-40bc-ba5f-3e3cde683804</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">4.4</_name>
+			<_modifiedTimeWeak type="a">6.7.2023::14:12:44</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:12:44</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The waste center shall notify the CMS when the fill level for a type of garbage surpasses 95%25.\par%0D
+}%0D
+</_body>
+			<reqID type="a">4.4</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID b5b8c297-7ec5-4425-8702-7fd040dc17e2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">4.5</_name>
+			<_modifiedTimeWeak type="a">6.7.2023::14:13:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:13:19</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The waste center shall notify the CMS when the fill level for a type of garbage drops below 95%25.\par%0D
+}%0D
+</_body>
+			<reqID type="a">4.5</reqID>
+		</IRequirement>
 		<IClass type="e">
 			<_id type="a">GUID 55d56682-6695-4599-8818-0ffea9dac428</_id>
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">

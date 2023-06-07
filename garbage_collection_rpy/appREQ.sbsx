@@ -12,23 +12,115 @@
 			<_id type="a">GUID 46c835a7-89dd-465d-bc5e-4f72a4232ad7</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">appREQ</_name>
-			<_modifiedTimeWeak type="a">6.7.2023::13:51:37</_modifiedTimeWeak>
-			<_modifiedTime type="a">6.7.2023::13:51:37</_modifiedTime>
-			<weakCGTime type="a">6.7.2023::13:51:37</weakCGTime>
+			<_modifiedTimeWeak type="a">6.7.2023::14:19:23</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:19:23</_modifiedTime>
+			<_lastID type="a">7</_lastID>
+			<weakCGTime type="a">6.7.2023::14:19:23</weakCGTime>
 			<strongCGTime type="a">6.7.2023::13:51:37</strongCGTime>
 			<_defaultComposite type="s">GUID d6a5ab06-48ac-4e12-801e-b8a73bca914f</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
+				<value>GUID 58a78bdf-2603-47bc-bb49-9b3065bd7219</value>
+				<value>GUID fc765e8a-0c37-43e3-8c88-f25119cadd39</value>
+				<value>GUID 752a2f97-7e6d-4083-a34d-9a8b6ecb5c06</value>
+				<value>GUID 47bc01b7-9d73-48e6-b2e0-ccb1bc9368c8</value>
+				<value>GUID b5f9c2ee-0be4-42be-a072-f6a64377d64f</value>
+				<value>GUID 1ea6b400-c221-4c19-a69b-1a6b52a44646</value>
+				<value>GUID c7db7e85-f0d4-4f60-81ac-22a207464508</value>
 				<value>GUID d6a5ab06-48ac-4e12-801e-b8a73bca914f</value>
 			</AggregatesList>
 		</ISubsystem>
+		<IRequirement type="e">
+			<_id type="a">GUID 58a78bdf-2603-47bc-bb49-9b3065bd7219</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">5.1</_name>
+			<_modifiedTimeWeak type="a">6.7.2023::14:15:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:15:45</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The mobile app shall show the location of each bin on an interactive map.\par%0D
+}%0D
+</_body>
+			<reqID type="a">5.1</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID fc765e8a-0c37-43e3-8c88-f25119cadd39</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">5.2</_name>
+			<_modifiedTimeWeak type="a">6.7.2023::14:16:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:16:24</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The mobile app shall show the fill level of each bin.\par%0D
+}%0D
+</_body>
+			<reqID type="a">5.2</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 752a2f97-7e6d-4083-a34d-9a8b6ecb5c06</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">5.3</_name>
+			<_modifiedTimeWeak type="a">6.7.2023::14:16:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:16:51</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The mobile app shall show how long it has been since each bin was last emptied.\par%0D
+}%0D
+</_body>
+			<reqID type="a">5.3</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 47bc01b7-9d73-48e6-b2e0-ccb1bc9368c8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">5.4</_name>
+			<_modifiedTimeWeak type="a">6.7.2023::14:17:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:17:37</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The mobile app shall allow users to notify the system that a bin is full.\par%0D
+}%0D
+</_body>
+			<reqID type="a">5.4</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID b5f9c2ee-0be4-42be-a072-f6a64377d64f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">5.5</_name>
+			<_modifiedTimeWeak type="a">6.7.2023::14:18:8</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:18:8</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The mobile app shall allow users to notify the system that a bin is problematic.\par%0D
+}%0D
+</_body>
+			<reqID type="a">5.5</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID 1ea6b400-c221-4c19-a69b-1a6b52a44646</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">5.6</_name>
+			<_modifiedTimeWeak type="a">6.7.2023::14:18:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:18:52</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The mobile app shall show the type of garbage accepted by each bin.\par%0D
+}%0D
+</_body>
+			<reqID type="a">5.6</reqID>
+		</IRequirement>
+		<IRequirement type="e">
+			<_id type="a">GUID c7db7e85-f0d4-4f60-81ac-22a207464508</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">5.7</_name>
+			<_modifiedTimeWeak type="a">6.7.2023::14:19:23</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.7.2023::14:19:23</_modifiedTime>
+			<_body type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}%0D
+\viewkind4\uc1\pard\fs20 The mobile app shall allow the user to find the nearest bin for a given type of garbage that is not yet full.\par%0D
+}%0D
+</_body>
+			<reqID type="a">5.7</reqID>
+		</IRequirement>
 		<IClass type="e">
 			<_id type="a">GUID d6a5ab06-48ac-4e12-801e-b8a73bca914f</_id>
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
